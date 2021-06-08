@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Susan @MajesticRecruiting
-- 👀 I’m interested in connecting with technical professionals in the United States. I'm currently recruiting for a Technical SME who can help roadmap a digital customer care system (chatbots, IVR, self service, conversational AI).
+- 👀 I’m interested in connecting with technical professionals in the United States. I'm currently recruiting for a Front-end Architect with strong Typescript with React skills, UI/UX design experience and ability to do code reviews.
 - 📫 How to reach me at majesticrecruiting@comcast.net
 
 <!---
