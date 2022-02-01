@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Susan @MajesticRecruiting
-- 👀 I’m interested in connecting with technical professionals in the United States. I'm currently recruiting for a Front-end Architect with strong Typescript with React skills, UI/UX design experience and ability to do code reviews.
+- 👀 I’m interested in connecting with technical professionals in the United States. I'm currently recruiting for a Vendor Management consolidation Program Manager for a F500 company. Manage disruption and simplify the vendor network.
 - 📫 How to reach me at majesticrecruiting@comcast.net
 
 <!---
